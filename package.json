@@ -1,0 +1,13 @@
+{
+  "name": "elementary",
+  "version": "1.0.0",
+  "main": "01.js",
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@inquirer/prompts": "^5.5.0"
+  }
+}
